@@ -17,10 +17,10 @@ Python, Excel
 
 cmsandy_eow6.py , cmsandyeow3.py 
 
- ## How to Run Program
+### How to Run Program
 
 <sub>N/A</sub>
 
-# Additional Information
+### Additional Information
 
 <sub>N/A</sub>
