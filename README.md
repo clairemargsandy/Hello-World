@@ -3,19 +3,19 @@ My first practice repository
 
 ## Project Title
 
-"Hello World Sample, My First Repository
+Hello World Sample, My First Repository
 
 ## Description
 
-Practicing using GitHub by creating a sample repository. 
+Practicing using GitHub by creating a sample repository. There are projects from one of my courses, Computational Thinking, included.
 
 ## Tools Used
 
-N/A
+Python, Excel
 
 ## Files Used
 
-N/A
+cmsandy_eow6.py , 
 
 ## How to Run Program
 
