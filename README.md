@@ -1,5 +1,5 @@
 # Hello-World
-My first practice repository
+**My first practice repository**
 
 ## Project Title
 
@@ -17,10 +17,10 @@ Python, Excel
 
 cmsandy_eow6.py , cmsandyeow3.py 
 
-## How to Run Program
+ ## How to Run Program
 
-N/A
+<sub>N/A</sub>
 
 # Additional Information
 
-N/A
+<sub>N/A</sub>
